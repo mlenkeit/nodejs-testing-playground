@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mlenkeit/nodejs-testing-playground/issues"
   },
-  "homepage": "https://github.com/mlenkeit/nodejs-testing-playground"
+  "homepage": "https://github.com/mlenkeit/nodejs-testing-playground",
+  "devDependencies": {
+    "should": "^5.2.0"
+  }
 }
