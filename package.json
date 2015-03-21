@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-testing-playground",
+  "version": "0.0.1",
+  "description": "Playgrount for Testing in Node.js apps",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlenkeit/nodejs-testing-playground.git"
+  },
+  "author": "Maximilian Lenkeit <maximilian.lenkeit@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlenkeit/nodejs-testing-playground/issues"
+  },
+  "homepage": "https://github.com/mlenkeit/nodejs-testing-playground"
+}
